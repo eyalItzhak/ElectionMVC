@@ -1,6 +1,6 @@
 # ElectionMVC
 
-This app was built during the Corona period.
+This app was built during the Corona.
 
 The purpose of the app is to practice object-oriented programming and inheritance.
 
